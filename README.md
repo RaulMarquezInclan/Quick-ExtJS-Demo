@@ -346,7 +346,7 @@ Ext.create('Ext.window.Window', {
 				handler: function(btn, e) {
                     Ext.Msg.show({
                         title: "Notificacion",
-                        msg: "Se perderan la informacion capturada, ¿continuar?",
+                        msg: "Se perdera la informacion capturada, ¿continuar?",
                         buttons: Ext.Msg.YESNO,
                         fn: function(btn) {
                             if (btn == 'yes') {
