@@ -10,8 +10,7 @@ https://docs.sencha.com/extjs/4.2.3/extjs-build/examples/build/KitchenSink/ext-t
 
 2. Abrir la consola del navegador (comunmente con la tecla F12 o con el menu contextual dentro del area de la pagina)
 
-3. Pegar el siguiente codigo en la consola y presionar enter.
-
+3. Pegar el siguiente codigo en la consola y presionar enter, la explicacion de las diferentes partes del codigo las encontraran en las partes comentadas.
 ```
 // Store para llenar el combo de marcas de autos
 var storeMarcas = Ext.create('Ext.data.Store', {
